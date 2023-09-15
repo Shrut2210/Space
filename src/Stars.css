@@ -1,0 +1,11 @@
+.mainCol
+{
+    position: relative;
+}
+
+.myImg:hover
+{
+    position: absolute;
+    transition: all 0.3s linear;
+    transform: scale(1.5);
+}
